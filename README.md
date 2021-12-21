@@ -47,3 +47,4 @@ Please make sure to adhere to the guidelines provided by the issue templates.
 If you are interested in contributing to the Saros project or have questions on a more technical level, you can have a look at our [contribution documentation](https://www.saros-project.org/contribute) or directly talk to us on
 - our developer [Gitter chat](https://gitter.im/saros-project/saros)
 - out [developer mailing list](https://groups.google.com/group/saros-devel)
+  
